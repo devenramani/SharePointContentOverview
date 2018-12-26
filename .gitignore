@@ -4,3 +4,5 @@
 
 /.vs/SharePointContentOverview/v15
 /obj/Debug
+/bin/Debug
+/packages
